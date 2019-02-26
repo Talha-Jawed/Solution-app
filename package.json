@@ -1,0 +1,34 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "firebase": "^5.8.2",
+    "geolib": "^2.0.24",
+    "moment": "^2.24.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-drawer": "^2.5.1",
+    "react-native-elements": "^1.0.0",
+    "react-native-maps": "^0.23.0",
+    "react-native-maps-directions": "^1.6.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-material-menu": "^0.4.2",
+    "react-navigation": "^3.2.1",
+    "react-redux": "^6.0.0",
+    "react-scripts": "^2.1.4",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
