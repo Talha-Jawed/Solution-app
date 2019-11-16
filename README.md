@@ -1,2 +1,2 @@
 # Solution-app
-home solution app
+SMIT fyp home solution app
