@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "expo": "^32.0.0",
-    "firebase": "^5.8.2",
+    "firebase": "^10.9.0",
     "geolib": "^2.0.24",
     "moment": "^2.24.0",
     "react": "16.5.0",
